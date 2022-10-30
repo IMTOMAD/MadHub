@@ -1,5 +1,5 @@
 local UI = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/IMTOMAD/Mad-hub/main/Taxi%20Boss?token=GHSAT0AAAAAAB2RQJZUM3E3QVAKTRUOLUUQY26RIMQ"))()
-local Window = UI:Window("Butter Hub")
+local Window = UI:Window("MadHub")
 UI:Notification("Scrpt By:", "IMTOMAD#8434", "Okay!")
 local FarmingTab = Window:Tab("Farming")
 FarmingTab:Toggle("Autofarm", false, function(arg)
